@@ -33,6 +33,24 @@ Mastering_Vulnerabilities/
 │ ├── README.md
 
 ```
+## 🧠 Ethernaut Challenge Progress
+
+| 🧩 Challenge Name | 🔗 Link |
+|------------------|--------|
+| Fallback         | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/Fallback) |
+| CoinFlip         | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/CoinFlip) |
+| Telephone        | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/Telephone) |
+| Token            | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/Token) |
+| Delegation       | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/Delegation) |
+| Force            | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/Force) |
+| Vault            | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/Vault) |
+| Re-entrancy      | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/Re-entrancy) |
+| Elevator         | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/Elevator) |
+| Privacy          | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/Privacy) |
+| GatekeeperOne    | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/GatekeeperOne) |
+| GatekeeperTwo    | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/GatekeeperTwo) |
+
+
 
 
 
@@ -44,6 +62,8 @@ Mastering_Vulnerabilities/
 - ✅ Document findings clearly and professionally — just like in real audits.
 
 ---
+
+
 
 ## 🧪 Tools Used
 
