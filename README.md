@@ -1,12 +1,12 @@
 #  🚀 Ethernaut__Solutions by  BugBeast15
 
-Welcome to **Ethernaut__Solutions** — a curated walkthrough of the Ethernaut CTF challenges, solved locally using Foundry. This repository documents my hands-on journey to mastering smart contract auditing, especially within the DeFi ecosystem.
+Welcome to **Ethernaut__Solutions**  a curated walkthrough of the Ethernaut CTF challenges, solved locally using Foundry. This repository documents my hands-on journey to mastering smart contract auditing, especially within the DeFi ecosystem.
 
 
 
 ## 🔍 Purpose
 
-To deeply understand how smart contract vulnerabilities arise, how they can be exploited, and how they should be mitigated — all through real challenges, structured learning, and an auditor’s mindset.
+To deeply understand how smart contract vulnerabilities arise, how they can be exploited, and how they should be mitigated all through real challenges, structured learning, and an auditor’s mindset.
 
 
 
@@ -59,7 +59,7 @@ Ethernaut_Solutions/
 - ✅ Develop an auditor's eye for spotting subtle vulnerabilities.
 - ✅ Write meaningful proofs of concept using **Foundry**.
 - ✅ Master **real-world mitigation techniques**.
-- ✅ Document findings clearly and professionally — just like in real audits.
+- ✅ Document findings clearly and professionally just like in real audits.
 
 ---
 
