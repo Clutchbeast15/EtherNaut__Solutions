@@ -25,7 +25,7 @@ Each folder in this repository focuses on **one Ethernaut challenge** and contai
 
 
 ```
-Mastering_Vulnerabilities/
+Ethernaut_Solutions/
 │
 ├── Vulnerability_Title/
 │ ├── Vulnerable_Contract.sol
