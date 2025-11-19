@@ -49,6 +49,8 @@ Ethernaut_Solutions/
 | Privacy          | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/Privacy) |
 | GatekeeperOne    | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/GatekeeperOne) |
 | GatekeeperTwo    | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/GatekeeperTwo) |
+| NaughtCoin       | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/NaughtCoin) |
+| Preservation     | [🔗 View](https://github.com/Clutchbeast15/EtherNaut__Solutions/tree/main/Preservation) |
 
 
 
