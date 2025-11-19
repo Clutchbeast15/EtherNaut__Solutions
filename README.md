@@ -83,5 +83,3 @@ I'm sharing this journey to learn in public and grow as a **DeFi Smart Contract 
 ---
 
 ⭐ If you’re on the same path or want to follow along!
-
-**Happy hacking and safe smart contracts!** 🔐
