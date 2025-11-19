@@ -1,4 +1,4 @@
-#  🚀 Ethernaut__Solutions by  BugBeast15
+#  🚀 Ethernaut__Solutions by  Sutar Vaibhav
 
 Welcome to **Ethernaut__Solutions**  a curated walkthrough of the Ethernaut CTF challenges, solved locally using Foundry. This repository documents my hands-on journey to mastering smart contract auditing, especially within the DeFi ecosystem.
 
